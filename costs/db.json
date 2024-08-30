@@ -1,22 +1,132 @@
 {
-    "projects": [],
-    "categories":[
-        {
-            "id": 1,
-            "name": "Infra"
-        },
-        {
-            "id": 2,
-            "name": "Desenvolvimento"
-        },
-        {
-            "id": 3,
-            "name": "Design"
-        },
-        {
-            "id": 4,
-            "name": "Planejamento"
-        }
-
-    ]
+  "projects": [
+    {
+      "id": "469b",
+      "name": "fesfse",
+      "budget": "7777",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "abdc",
+      "name": "projeto teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "c8ff",
+      "name": "projeto teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "7a8b",
+      "name": "projeto teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "cfca",
+      "name": "projeto teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "7fe5",
+      "name": "projeto teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "73f9",
+      "name": "projeto teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "e32d",
+      "name": "projeto teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "9bc7",
+      "name": "projeto teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "ccfb",
+      "name": "projeto teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
 }
