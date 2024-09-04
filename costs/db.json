@@ -2,11 +2,11 @@
   "projects": [
     {
       "id": "e337",
-      "name": "Gustavo",
-      "budget": "7000",
+      "name": "Funtional project",
+      "budget": "1500",
       "category": {
-        "id": "3",
-        "name": "Design"
+        "id": "1",
+        "name": "Infra"
       },
       "cost": 0,
       "services": []
