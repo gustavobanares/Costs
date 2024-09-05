@@ -8,27 +8,8 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 900,
-      "services": [
-        {
-          "name": "Meu novo servico",
-          "cost": "100",
-          "description": "faca isso",
-          "id": "acb9112b-6473-404f-a875-4115e30fd1b9"
-        },
-        {
-          "name": "Meu novo servico 2",
-          "cost": "100",
-          "description": "faca isso",
-          "id": "c00e4167-3eca-4755-af68-8456758e3014"
-        },
-        {
-          "name": "dev jr",
-          "cost": "700",
-          "description": "fazer o front",
-          "id": "4f6227d3-bffb-48b6-a836-699883a318cb"
-        }
-      ]
+      "cost": 0,
+      "services": []
     },
     {
       "id": "f971",
