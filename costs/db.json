@@ -8,7 +8,7 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 200,
+      "cost": 900,
       "services": [
         {
           "name": "Meu novo servico",
@@ -21,8 +21,25 @@
           "cost": "100",
           "description": "faca isso",
           "id": "c00e4167-3eca-4755-af68-8456758e3014"
+        },
+        {
+          "name": "dev jr",
+          "cost": "700",
+          "description": "fazer o front",
+          "id": "4f6227d3-bffb-48b6-a836-699883a318cb"
         }
       ]
+    },
+    {
+      "id": "f971",
+      "name": "dwadwada",
+      "budget": "7000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
     }
   ],
   "categories": [
