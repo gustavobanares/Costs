@@ -25,6 +25,10 @@
     color: #fff;
 }
 
+.social_list svg:hover{
+    color: #FFBB33;
+}
+
 .copy_right{
     margin-top: 2em;
 }
