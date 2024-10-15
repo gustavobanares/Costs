@@ -45,7 +45,7 @@ npm start
 
 ## 🌐 Project Link
 
-Deployed: [Costs on Vercel](https://www.linkedin.com/feed/update/urn:li:activity:7249086103633248259/)
+Deployed: [Costs on Vercel](https://costs-pink-ten.vercel.app/)
 
 ## 📄 License
 
