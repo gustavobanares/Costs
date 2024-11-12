@@ -37,11 +37,11 @@ npm install
 ```bash
 npm run backend
 ```
-4. Start the development server:
+5. Start the development server:
 ```bash
 npm start
 ```
-5. Open http://localhost:3000 in your browser to use the cost manager.
+6. Open http://localhost:3000 in your browser to use the cost manager.
 
 ## 🌐 Project Link
 
